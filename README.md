@@ -18,3 +18,6 @@ Interesting Task Ideas:
 6. Gain insights into the general spending habits of online shoppers.
 7. Use as a seed dataset for practicing database management and performance optimization.
 Reference: https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products
+Note: Download data from Kaggle, make a data folder and add csv files into Data folder - due to large data I haven't uploaded it here.
+
+##Thank You##
